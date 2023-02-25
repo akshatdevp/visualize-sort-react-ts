@@ -1,5 +1,5 @@
 # visualize-sort-react-ts
-An array sorting visualizer for trying out react [ in hindsight 
+An array sorting visualizer for trying out react
 npm i
 npm run dev
 
